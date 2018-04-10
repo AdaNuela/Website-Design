@@ -1,0 +1,17 @@
+body {
+	background-color:linen;
+	background-image:url("Penguins.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right top;
+}	
+
+h1{
+color: maroon;
+text-align: left;
+}
+
+p{
+font-family: verdana;
+font-size: 20px;
+}
