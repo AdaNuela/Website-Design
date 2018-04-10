@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css"
+href="learning1.css">
+</head> 
+<img src="Coy Logo 1.jpg">
+
+<h1> Welcome to Nuecla Services!</h1>
+<p> We are an information technology consulting and project management company.</p>
+<p> We advise companies, organisations, institutions, and businesses on how to use information technology to meet their business goals and objectives.</p>
+<p> Our staff are well trained and specialists in various areas.</p>
+<p> We also guarantee refund within 48 hours if not happy with our services.</p>
+<a href= "Design 2.html"> Click here to learn more about us </a>
+
+
+</body>
+</html>
