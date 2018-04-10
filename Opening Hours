@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css"
+href="learning.css">
+</head> 
+
+<h1 style="font-size:170%;"> Opening Hours </h1>
+<p> We are available Mondays to Fridays, 9am to 4pm.</p>
+<a href= "Design 5.html"> for more information on how to locate us</a>
+</body>
+</html>
