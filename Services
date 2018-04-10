@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css"
+href="learning.css">
+</head> 
+
+<h1 style="font-size:170%;"> Our Services</h1>
+<p> We offer the following services:</p>
+<p> *Database Administration </p>
+<p> *IT Support </p>
+<p> *Web Design </p>
+<p> *Mobile App Development </p>
+<p> *Project Management </p>
+<p> *Fishery Technology </p>
+<p> *Digital Marketing</p>
+
+<a href= "Design 4.html"> Click here to know our opening hours </a>
+
+</body>
+</html>	
